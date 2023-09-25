@@ -1,0 +1,18 @@
+
+.totalCount {
+    color: #00a5ab;
+    font-size: 150px;
+    padding: 20px;
+}
+
+.resetButton {
+    font-size: 16px;
+    background-color: #81008b;
+    width: 150px;
+    margin: 10px;
+    color: white;
+    padding: 15px;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 5px;
+}
